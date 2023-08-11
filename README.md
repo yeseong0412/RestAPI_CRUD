@@ -2,7 +2,7 @@
 
 - Base URL : localhost:8080/guestbook
 
-- Post : localhost:8080/guestbook
+- Post : localhost:8080/guestbook | 
 Example JSON 
     {
       "title" : "testTitle",
@@ -14,7 +14,7 @@ Example JSON
   
 - GET : localhost:8080/guestbook/list
 
-- PUT : localhost:8080/guestbook
+- PUT : localhost:8080/guestbook | 
 Example JSON
     {
         "gno" : 1,
